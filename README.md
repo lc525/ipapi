@@ -3,5 +3,5 @@ ipapi
 
 An Improved Provenance API
 
-- A description of IPAPI's design is submitted as a TaPP'13 paper proposal, currently under peer review.
-- Full documentation will be shortly uploaded to the project's wiki.
+- IPAPI has been presented at TaPP'13, and we are preparing its first public release in June 2013.
+- Full documentation together with samples and use cases will be uploaded to the project's wiki soon after release.
